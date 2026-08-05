@@ -1,0 +1,27 @@
+{
+  "feature": "ing_ore:deepslate_ing_ore",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 10
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "absolute": -64
+        },
+        "max_inclusive": {
+          "absolute": 5
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

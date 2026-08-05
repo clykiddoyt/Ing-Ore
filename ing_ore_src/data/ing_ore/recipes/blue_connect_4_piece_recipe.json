@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "ing_ore:ing"
+    }
+  },
+  "result": {
+    "item": "ing_ore:blue_connect_4_piece",
+    "count": 1
+  }
+}

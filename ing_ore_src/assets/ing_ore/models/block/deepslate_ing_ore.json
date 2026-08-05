@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ing_ore:block/deepslate_ing_ore",
+    "up": "ing_ore:block/deepslate_ing_ore",
+    "north": "ing_ore:block/deepslate_ing_ore",
+    "east": "ing_ore:block/deepslate_ing_ore",
+    "south": "ing_ore:block/deepslate_ing_ore",
+    "west": "ing_ore:block/deepslate_ing_ore",
+    "particle": "ing_ore:block/deepslate_ing_ore"
+  },
+  "render_type": "solid"
+}

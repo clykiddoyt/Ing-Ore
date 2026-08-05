@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ing_ore:ing_block"
+    }
+  ],
+  "result": {
+    "item": "ing_ore:ing",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ing_ore:block/ing_block",
+    "up": "ing_ore:block/ing_block",
+    "north": "ing_ore:block/ing_block",
+    "east": "ing_ore:block/ing_block",
+    "south": "ing_ore:block/ing_block",
+    "west": "ing_ore:block/ing_block",
+    "particle": "ing_ore:block/ing_block"
+  },
+  "render_type": "solid"
+}

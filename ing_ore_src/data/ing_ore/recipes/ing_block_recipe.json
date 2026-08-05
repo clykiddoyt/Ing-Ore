@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "ing_ore:ing"
+    }
+  },
+  "result": {
+    "item": "ing_ore:ing_block",
+    "count": 1
+  }
+}
